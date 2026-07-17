@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Styling and JavaScript Tasks",
+  "description": "Interactive learning playground demonstrating responsive design media queries, quizzes/carousels, and public API data fetching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
